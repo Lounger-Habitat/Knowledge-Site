@@ -1,6 +1,8 @@
 # Knowledge-Site
 Sources of essential knowledge
 
+大家可维护这些目录、并进行补充资料
+
 ## 目录结构
 ```
 Knowledge-Site                    // 仓库根目录
