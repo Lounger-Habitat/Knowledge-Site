@@ -36,7 +36,8 @@ Knowledge-Site                    // 仓库根目录
     |   ···
     ├── 设计专业知识                 // 设计相关
     ├── 美术专业知识                 // 美术相关
-    ├── MS&E专业知识                // MS&E （Management Science and Engineering）
+    ├── MS&E专业知识                 // MS&E （Management Science and Engineering）
+    ├── 软件仓库                     // 经常需要使用的环境与工具 (这是link啦！不是bin是link哦!)
     └── README.md
     ···
 ```
