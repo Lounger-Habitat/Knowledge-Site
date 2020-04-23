@@ -4,6 +4,8 @@
 
 ## Windows
 
+BabylonJS Editor Setup 3.2.0.exe
+
 ## Linux
 
 ## Mac OS
