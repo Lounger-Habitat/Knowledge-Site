@@ -53,7 +53,31 @@
 
     >1、几种符号的说明
     **主语** _**谓语**_ *宾语* （定语）[状语] 
-    2、方法可以参考资料中的 语法万能公式.doc 及 《赖氏经典语法》
+
+    >2、方法可以参考资料中的 语法万能公式.doc 及 《赖氏经典语法》
+
+    >3、建议尝试方法，欢迎指正
+    
+                快速划分语块，理解原文大意
+
+                eg1. 2005 Text1 Para1 s2
+
+                Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one. 
+
+                快速划分
+
+                Yet 连词
+
+                pleasure at your own 名词，主语，你的快乐
+
+                can vanish， 动词，谓语，会消失
+
+                if you learn that a colleague has been given a bigger one. 
+                if引导的(条件状语)从句， 如果你了解到
+
+                that a colleague has been given a bigger one 
+                that引导的宾语从句，a colleague一个同事，has been given 被给予，
+                a bigger one 一个更大的， 联系上下文，one指代上一句的a fat pay rise
 
     >step 2 标记单词或词组
 
