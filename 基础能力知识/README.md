@@ -118,3 +118,8 @@
 专业课 计算机？
 
 - [ ] 找齐资料，划分计划
+
+-------------------
+学习结果对应写入README  
+[GCYY/README](DailyWorkRealm/GCYY/README.md)  
+[Haper/README](DailyWorkRealm/GCYY/README.md)
